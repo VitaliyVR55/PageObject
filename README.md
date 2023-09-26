@@ -1,4 +1,4 @@
-
+## Project status [![Build status](https://ci.appveyor.com/api/projects/status/g05oeu9qa1htc1lb/branch/main?svg=true)](https://ci.appveyor.com/project/VitaliyVR55/pageobject/branch/main)
 
 ## Задача №1: Page Object's
 
